@@ -1,0 +1,13 @@
+amqp==2.3.2
+billiard==3.5.0.4
+celery==4.2.1
+celery-redbeat==0.11.1
+enum34==1.1.6
+eventlet==0.23.0
+greenlet==0.4.14
+kombu==4.2.1
+python-dateutil==2.7.3
+pytz==2018.5
+redis==2.10.6
+six==1.11.0
+vine==1.1.4
